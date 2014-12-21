@@ -5,7 +5,7 @@ require 'rails-chartjs/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rails-chartjs"
-  spec.version       = RailsAssetsChartjs::VERSION
+  spec.version       = RailsChartjs::VERSION
   spec.authors       = [""]
   spec.description   = "Simple HTML5 Charts using the canvas element"
   spec.summary       = "Simple HTML5 Charts using the canvas element"
